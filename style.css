@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+}
+p{
+    color: tomato;
+}
+sup{
+    font-size: 50px;
+}
